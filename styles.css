@@ -1,0 +1,13 @@
+body {
+  background: orange;
+  color: pink;
+  user-select: none;
+}
+button {
+  background-color: white;
+  color: blue;
+  border-radius: 99999px;
+}
+#blue {
+  background-color: blue;
+}
